@@ -1,0 +1,9 @@
+Building HopeCoin
+
+See doc/readme-qt.rst for instructions on building HopeCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HopeCoin.
+
+See doc/build-*.txt for instructions on building hopecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HopeCoin.
